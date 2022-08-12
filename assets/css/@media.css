@@ -1,0 +1,16 @@
+/* for SM */
+@media(max-width:768px){
+  .logoForSm{
+    position: absolute;
+    top: 40px;
+    left: 210px;
+  }
+}
+/* for MD */
+@media (min-width: 768px) and (max-width: 922px){
+  
+}
+/* for LG */
+@media (min-width: 922px){
+  
+}
